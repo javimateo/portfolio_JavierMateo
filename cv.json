@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Joaquin!",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
+    "name": "Javier Mateo",
+    "label": "Junior Java developer",
+    "image": "/me.jpg",
+    "email": "javier.mateo@a.vedrunasevillasj.es",
     "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "url": "",
+    "summary": "Just finished my studies open to work as a junior developer. I've worked in international companies.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41005",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
     },
@@ -18,70 +18,70 @@
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/javier-mateo-carmona/"
       },
       {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "javimateo",
+        "url": "https://github.com/javimateo"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "javier",
+      "position": "Software developer",
+      "url": "",
+      "startDate": "2023-01-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Intership in Italy, gained experience in SQL, php, working envioroments and communicating in foreign lenguages. Worked managing Lombardia public sanity databeses, also worked in web pages migrations.",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     }
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
+      "name": "Javier Mateo",
       "type": "Academic Reference",
       "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "position": "Studient",
       "contact": [
         "Phone: +34611223345",
         "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "Alejandro Téllez",
+      "name": "Alvaro Maqueda",
       "type": "Professional Reference",
       "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "position": "Work collegue in InvisibleFarm S.L",
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
@@ -89,134 +89,134 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      ""
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "FP vedruna Sevilla",
+    "url": "https://www.vedrunasevilla.es",
     "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "studyType": "Multiplatform application developer",
+    "startDate": "2023-01-01",
+    "endDate": "2025-01-01",
+    "score": "10.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      ""
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
   }],
   "skills": [
     {
       "name": "HTML",
+      "level": "Medium level",
+      "keywords": [
+        "Web development", "Basics"
+      ]
+    },
+    {
+      "name": "Java",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend"
+        "", "Backend", ""
       ]
     },
     {
-      "name": "CSS",
-      "level": "Master",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "", "", "", ""
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        ""
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        ""
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        ""
       ]
     },
     {
-      "name": "Node",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        ""
       ]
     },
     {
-      "name": "MySQL",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        ""
       ]
     },
     {
-      "name": "Git",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        ""
       ]
     },
     {
-      "name": "GitHub",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        ""
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": "",
+      "level": "",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        ""
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "",
+      "fluency": ""
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "",
+      "fluency": ""
     }
   ],
   "interests": [{
